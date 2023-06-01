@@ -6,3 +6,5 @@ Nushell
 * Run `cargo install bat`
 * Run `cargo install ripgrep`
 * Run `cargo install broot`
+* Run `cargo install cargo-wasix`
+* Run `cargo install cargo-leptos`
