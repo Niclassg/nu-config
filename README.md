@@ -8,8 +8,6 @@ Nushell
 * Run `cargo install broot`
 * Run `cargo install cargo-wasix`
 * Run `cargo install cargo-leptos`
-* Run `
-rustup toolchain install nightly
-rustup default nightly
-rustup target add wasm32-unknown-unknown
-`
+* Run `rustup toolchain install nightly`
+* Run `rustup default nightly`
+* Run `rustup target add wasm32-unknown-unknown`
